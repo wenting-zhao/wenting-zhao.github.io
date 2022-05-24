@@ -1,0 +1,39 @@
+notable: 
+    - title: "Commonsense Reasoning for Question Answering with Explanations"
+      authors: Wenting Zhao, Alexander M Rush, and Claire Cardie
+      pdf: https://openreview.net/pdf?id=rg-zrfteOZc
+      conference: ACL 2022 Workshop on Commonsense Representation and Reasoning
+    - title: "Compositional Task-Oriented Parsing as Abstractive Question Answering"
+      authors: Wenting Zhao, Weiqi Sun, Konstantine Arkoudas, and Claire Cardie
+      pdf: https://arxiv.org/pdf/2205.02068.pdf
+      conference: NAACL 2022 (oral)
+
+papers:
+    - title: "Commonsense Reasoning for Question Answering with Explanations"
+      authors: Wenting Zhao, Alexander M Rush, and Claire Cardie
+      pdf: https://openreview.net/pdf?id=rg-zrfteOZc
+      conference: ACL 2022 Workshop on Commonsense Representation and Reasoning
+    - title: "Compositional Task-Oriented Parsing as Abstractive Question Answering"
+      authors: Wenting Zhao, Weiqi Sun, Konstantine Arkoudas, and Claire Cardie
+      pdf: https://arxiv.org/pdf/2205.02068.pdf
+      conference: NAACL 2022
+    - title: "Automating Crystal-Structure Phase Mapping: Combining Deep Learning with Constraint Reasoning"
+      authors: Di Chen, Yiwei Bai, Sebastian Ament, Wenting Zhao, Dan Guevarra, Lan Zhou, Bart Selman, R. Bruce van Dover, John M. Gregoire, and Carla P. Gomes
+      pdf: https://arxiv.org/pdf/2108.09523.pdf
+      conference: Nature Machine Intelligence 2021 (cover story)
+    - title: "HOT-VAE: Learning High-Order Label Correlation for Multi-Label Classification via Attention-Based Variational Autoencoders"
+      authors: Wenting Zhao, Shufeng Kong, Junwen Bai, Daniel Fink, and Carla Gome
+      pdf: https://arxiv.org/pdf/2103.06375.pdf
+      conference: AAAI 2021 (computational sustainability track)
+    - title: "Deep Reasoning Networks for Unsupervised Pattern De-mixing with Constraint Reasoning"
+      authors: Di Chen, Yiwei Bai, Wenting Zhao, Sebastian Ament, John Gregoire, and Carla Gomes
+      pdf: http://proceedings.mlr.press/v119/chen20a/chen20a.pdf
+      conference: ICML 2020
+    - title: "Finding graph decompositions via SAT"
+      authors: Wenting Zhao, Mark H. Liffiton, Peter G. Jeavons, and Dan Roberts
+      pdf: https://sun.iwu.edu/~mliffito/publications/ictai17_zhao_graph_decomp.pdf
+      conference: ICTAI 2017
+    - title: "Parallelizing Partial MUS Enumeration"
+      authors: Wenting Zhao, and Mark H. Liffiton
+      pdf: https://sun.iwu.edu/~mliffito/publications/ictai16_zhao_liffiton_MARCOs.pdf
+      conference: ICTAI 2016

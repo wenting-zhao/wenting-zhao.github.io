@@ -1,0 +1,58 @@
+---
+layout: page
+title: Main
+weight: 1.5
+show: 1
+---
+
+<div class="col-7">
+    <center>
+  <table>
+<tr><td style="padding:10px 90px 10px 0px">
+      <img width="200px" class="img-rounded" src="https://avatars.githubusercontent.com/u/8762524?v=4" />
+  </td><td style="padding:10px">
+    <center>
+    <h1>Wenting Zhao</h1>
+    <b>Ph.D. Student</b> <br> <b>Harvard University</b> <br>
+    <span style="font-size:15px"><a href="mailto:wzhao@cs.cornell.edu">[wzhao@cs.cornell.edu]</a> <a href="cv/cv.pdf">[cv]</a></span> </h1> <br>
+</center>
+
+      </td>
+  </tr>
+  </table>
+  </center>
+<br>
+</div>
+
+<p style="font-size: 18px">
+  I am a PhD student in Computer Science at Cornell University. I work on natural language processing and commonsense reasoning. I am advised by Prof. Claire Cardie and Prof. Sasha Rush.
+</p>
+
+<h3>Selected Publications</h3>
+
+<table>
+{% for paper in site.data.papers.notable %}
+
+<a class="paper" href="{{paper.pdf}}">
+{{paper.title}}
+</a><br>
+{{paper.authors}}.<br>
+{{paper.conference}} <br>
+
+<br>
+
+</td></tr>
+
+{% endfor %}
+</table>
+
+
+<h3>Contact</h3>
+
+
+<div class="paper-section">
+Wenting Zhao <br>
+wzhao at cs.cornell.edu <br>
+Gates 122, Ithaca, NY <br>
+</div>
+<br>
