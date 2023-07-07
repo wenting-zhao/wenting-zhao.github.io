@@ -1,14 +1,26 @@
 notable: 
-    - title: "Commonsense Reasoning for Question Answering with Explanations"
-      authors: Wenting Zhao, Alexander M Rush, and Claire Cardie
-      pdf: https://openreview.net/pdf?id=rg-zrfteOZc
-      conference: ACL 2022 Workshop on Commonsense Representation and Reasoning
+    - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
+      authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2305.14237.pdf
+      conference: arXiv:2305.14237
+    - title: "Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations"
+      authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2305.14618.pdf
+      conference: ACL 2023 (oral)
     - title: "Compositional Task-Oriented Parsing as Abstractive Question Answering"
       authors: Wenting Zhao, Weiqi Sun, Konstantine Arkoudas, and Claire Cardie
       pdf: https://arxiv.org/pdf/2205.02068.pdf
       conference: NAACL 2022 (oral)
 
 papers:
+    - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
+      authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2305.14237.pdf
+      conference: arXiv:2305.14237
+    - title: "Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations"
+      authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2305.14618.pdf
+      conference: ACL 2023 (oral)
     - title: "Commonsense Reasoning for Question Answering with Explanations"
       authors: Wenting Zhao, Alexander M Rush, and Claire Cardie
       pdf: https://openreview.net/pdf?id=rg-zrfteOZc
