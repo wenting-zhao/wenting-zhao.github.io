@@ -1,16 +1,16 @@
 notable: 
+    - title: "(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild"
+      authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
+      pdf: https://openreview.net/pdf?id=Bl8u7ZRlbM
+      conference: Under Review
     - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
       pdf: https://arxiv.org/pdf/2305.14237.pdf
-      conference: arXiv:2305.14237
+      conference: EMNLP 2023
     - title: "Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
       pdf: https://arxiv.org/pdf/2305.14618.pdf
       conference: ACL 2023
-    - title: "Compositional Task-Oriented Parsing as Abstractive Question Answering"
-      authors: Wenting Zhao, Weiqi Sun, Konstantine Arkoudas, and Claire Cardie
-      pdf: https://arxiv.org/pdf/2205.02068.pdf
-      conference: NAACL 2022
 
 papers:
     - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
