@@ -1,7 +1,7 @@
 notable: 
     - title: "(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild"
       authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
-      pdf: https://openreview.net/pdf?id=Bl8u7ZRlbM
+      pdf: papers/wildchat.pdf
       conference: Under Review
     - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
