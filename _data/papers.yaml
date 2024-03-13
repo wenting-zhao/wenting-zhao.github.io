@@ -1,12 +1,12 @@
 notable: 
     - title: "(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild"
       authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
-      pdf: papers/wildchat.pdf
-      conference: Under Review
+      pdf: https://openreview.net/forum?id=Bl8u7ZRlbM
+      conference: ICLR 2024 (spotlight)
     - title: "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations"
       authors: Wenting Zhao, Justin T Chiu, Jena D. Hwang, Faeze Brahman, Jack Hessel, Sanjiban Choudhury, Yejin Choi, Xiang Lorraine Li, Alane Suhr
       pdf: https://arxiv.org/pdf/2311.08469.pdf 
-      conference: Under Review
+      conference: NAACL 2024
     - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
       pdf: https://arxiv.org/pdf/2305.14237.pdf
