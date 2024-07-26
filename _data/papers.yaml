@@ -1,7 +1,10 @@
 notable: 
-    - title: "(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild"
+    - title: "I Could've Asked That: Reformulating Unanswerable Questions"
+      authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
+      pdf: https://arxiv.org/pdf/2407.17469
+    - title: "WildChat: 1M ChatGPT Interaction Logs in the Wild"
       authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
-      pdf: https://openreview.net/forum?id=Bl8u7ZRlbM
+      pdf: https://arxiv.org/pdf/2405.01470
       conference: ICLR 2024 (spotlight)
     - title: "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations"
       authors: Wenting Zhao, Justin T Chiu, Jena D. Hwang, Faeze Brahman, Jack Hessel, Sanjiban Choudhury, Yejin Choi, Xiang Lorraine Li, Alane Suhr
@@ -17,6 +20,20 @@ notable:
       conference: ACL 2023
 
 papers:
+    - title: "I Could've Asked That: Reformulating Unanswerable Questions"
+      authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
+      pdf: https://arxiv.org/pdf/2407.17469
+    - title: "WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries"
+      authors: Wenting Zhao, Tanya Goyal, Yu Ying Chiu, Liwei Jiang, Benjamin Newman, Abhilasha Ravichander, Khyathi Chandu, Ronan Le Bras, Claire Cardie, Yuntian Deng, Yejin Choi
+      pdf: https://arxiv.org/pdf/2407.17468
+    - title: "WildChat: 1M ChatGPT Interaction Logs in the Wild"
+      authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
+      pdf: https://arxiv.org/pdf/2405.01470
+      conference: ICLR 2024 (spotlight)
+    - title: "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations"
+      authors: Wenting Zhao, Justin T Chiu, Jena D. Hwang, Faeze Brahman, Jack Hessel, Sanjiban Choudhury, Yejin Choi, Xiang Lorraine Li, Alane Suhr
+      pdf: https://arxiv.org/pdf/2311.08469.pdf 
+      conference: NAACL 2024
     - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
       pdf: https://arxiv.org/pdf/2305.14237.pdf
