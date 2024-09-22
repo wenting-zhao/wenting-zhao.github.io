@@ -2,6 +2,7 @@ notable:
     - title: "I Could've Asked That: Reformulating Unanswerable Questions"
       authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
       pdf: https://arxiv.org/pdf/2407.17469
+      conference: EMNLP 2024
     - title: "WildChat: 1M ChatGPT Interaction Logs in the Wild"
       authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
       pdf: https://arxiv.org/pdf/2405.01470
@@ -23,6 +24,7 @@ papers:
     - title: "I Could've Asked That: Reformulating Unanswerable Questions"
       authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
       pdf: https://arxiv.org/pdf/2407.17469
+      conference: EMNLP 2024
     - title: "WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries"
       authors: Wenting Zhao, Tanya Goyal, Yu Ying Chiu, Liwei Jiang, Benjamin Newman, Abhilasha Ravichander, Khyathi Chandu, Ronan Le Bras, Claire Cardie, Yuntian Deng, Yejin Choi
       pdf: https://arxiv.org/pdf/2407.17468
