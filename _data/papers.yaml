@@ -1,4 +1,12 @@
 notable: 
+    - title: "Commit0: Library Generation from Scratch"
+      authors: Wenting Zhao, Nan Jiang, Celine Lee, Justin T Chiu, Claire Cardie, Matthias Gallé, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2412.01769
+      conference: ArXiv 2412.01769
+    - title: "“Challenges in Trustworthy Human Evaluation of Chatbots"
+      authors: Wenting Zhao, Alexander M. Rush, Tanya Goyal
+      pdf: https://arxiv.org/pdf/2412.04363
+      conference: ArXiv 2412.04363
     - title: "I Could've Asked That: Reformulating Unanswerable Questions"
       authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
       pdf: https://arxiv.org/pdf/2407.17469
@@ -21,6 +29,18 @@ notable:
       conference: ACL 2023
 
 papers:
+    - title: "Commit0: Library Generation from Scratch"
+      authors: Wenting Zhao, Nan Jiang, Celine Lee, Justin T Chiu, Claire Cardie, Matthias Gallé, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2412.01769
+      conference: ArXiv 2412.01769
+    - title: "“Challenges in Trustworthy Human Evaluation of Chatbots"
+      authors: Wenting Zhao, Alexander M. Rush, Tanya Goyal
+      pdf: https://arxiv.org/pdf/2412.04363
+      conference: ArXiv 2412.04363
+    - title: "“Great Memory, Shallow Reasoning: Limits of kNN-LMs"
+      authors: Shangyi Geng, Wenting Zhao, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2408.11815
+      conference: ArXiv 2408.11815
     - title: "I Could've Asked That: Reformulating Unanswerable Questions"
       authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
       pdf: https://arxiv.org/pdf/2407.17469
