@@ -33,6 +33,38 @@ notable:
       conference: ACL 2023
 
 papers:
+    - title: "Refactoring Code Through Library Design"
+      authors: Ziga Kovacic, Justin T. Chiu, Celine Lee, Wenting Zhao, Kevin Ellis
+      pdf: https://arxiv.org/pdf/2506.11058
+      conference: NeurIPS 2026
+    - title: "Scaling Agentic Verifier for Competitive Coding"
+      authors: Zeyao Ma, Jing Zhang, Xiaokang Zhang, Jiaxi Yang, Zongmeng Zhang, Jiajun Zhang, Yuheng Jing, Lei Zhang, Hao Zheng, Wenting Zhao, Junyang Lin, Binyuan Hui
+      pdf: https://arxiv.org/pdf/2602.04254
+      conference: ICML 2026
+    - title: "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation"
+      authors: Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, Xian Li, Tianjian Li, Bo Liu, Graham Neubig, Anaelia Ovalle, Swarnadeep Saha, Sainbayar Sukhbaatar, Sean Welleck, Jason Weston, Chenxi Whitehouse, Adina Williams, Jing Xu, Ping Yu, Weizhe Yuan, Jingyu Zhang, Wenting Zhao
+      pdf: https://arxiv.org/pdf/2603.18886
+      conference: Preprint 2026
+    - title: "SWE-Universe: Scale Real-World Verifiable Environments to Millions"
+      authors: Mouxiang Chen, Lei Zhang, Yunlong Feng, Xuwu Wang, Wenting Zhao, Ruisheng Cao, Jiaxi Yang, Jiawei Chen, Mingze Li, Zeyao Ma, Hao Ge, Zongmeng Zhang, Zeyu Cui, Dayiheng Liu, Jingren Zhou, Jianling Sun, Junyang Lin, Binyuan Hui
+      pdf: https://arxiv.org/pdf/2602.02361
+      conference: Preprint 2026
+    - title: "Multi-Turn Code Generation Through Single-Step Rewards"
+      authors: Arnav Kumar Jain*, Gonzalo Gonzalez-Pumariega*, Wayne Chen, Alexander M Rush, Wenting Zhao+, Sanjiban Choudhury+
+      pdf: https://arxiv.org/pdf/2502.20380
+      conference: ICML 2025 (spotlight)
+    - title: "A Controlled Study on Long Context Extension and Generalization in LLMs"
+      authors: Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2409.12181
+      conference: COLM 2025
+    - title: "The Future of Open Human Feedback"
+      authors: Shachar Don-Yehiya, Ben Burtenshaw, Ramon Fernandez Astudillo, Cailean Osborne, Mimansa Jaiswal, Tzu-Sheng Kuo, Wenting Zhao, Idan Shenfeld, Andi Peng, Mikhail Yurochkin, Atoosa Kasirzadeh, Yangsibo Huang, Tatsunori Hashimoto, Yacine Jernite, Daniel Vila-Suero, Omri Abend, Jennifer Ding, Sara Hooker, Hannah Rose Kirk, Leshem Choshen
+      pdf: https://arxiv.org/pdf/2408.16961
+      conference: Nature Machine Intelligence 2025
+    - title: "Are Triggers Needed for Document-Level Event Extraction?"
+      authors: Shaden Shaar*, Wayne Chen*, Maitreyi Chatterjee, Barry Wang, Wenting Zhao, Claire Cardie
+      pdf: https://arxiv.org/pdf/2411.08708
+      conference: TACL 2025
     - title: "Commit0: Library Generation from Scratch"
       authors: Wenting Zhao, Nan Jiang, Celine Lee, Justin T Chiu, Claire Cardie, Matthias Gallé, Alexander M Rush
       pdf: https://arxiv.org/pdf/2412.01769
@@ -45,33 +77,74 @@ papers:
       authors: Shangyi Geng, Wenting Zhao, Alexander M Rush
       pdf: https://arxiv.org/pdf/2408.11815
       conference: NAACL 2025
-    - title: "I Could've Asked That: Reformulating Unanswerable Questions"
-      authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
-      pdf: https://arxiv.org/pdf/2407.17469
-      conference: EMNLP 2024
-    - title: "WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries"
-      authors: Wenting Zhao, Tanya Goyal, Yu Ying Chiu, Liwei Jiang, Benjamin Newman, Abhilasha Ravichander, Khyathi Chandu, Ronan Le Bras, Claire Cardie, Yuntian Deng, Yejin Choi
-      pdf: https://arxiv.org/pdf/2407.17468
+    - title: "The Majority is not always right: RL training for solution aggregation"
+      authors: Wenting Zhao, Pranjal Aggarwal, Swarnadeep Saha, Asli Celikyilmaz, Jason Weston, Ilia Kulikov
+      pdf: https://arxiv.org/pdf/2509.06870
+      conference: Preprint 2025
+    - title: "StepWiser: Stepwise Generative Judges for Wiser Reasoning"
+      authors: Wei Xiong, Wenting Zhao, Weizhe Yuan, Olga Golovneva, Tong Zhang, Jason Weston, Sainbayar Sukhbaatar
+      pdf: https://arxiv.org/pdf/2508.19229
+      conference: Preprint 2025
+    - title: "The Era of Real-World Human Interaction: RL from User Conversations"
+      authors: Chuanyang Jin, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
+      pdf: https://arxiv.org/pdf/2509.25137
+      conference: Preprint 2025
+    - title: "SPICE: Self-Play In Corpus Environments Improves Reasoning"
+      authors: Bo Liu, Chuanyang Jin, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston
+      pdf: https://arxiv.org/pdf/2510.24684
+      conference: Preprint 2025
     - title: "WildChat: 1M ChatGPT Interaction Logs in the Wild"
       authors: Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng
       pdf: https://arxiv.org/pdf/2405.01470
       conference: ICLR 2024 (spotlight)
+    - title: "Language Model Inversion"
+      authors: John Morris, Wenting Zhao, Justin Chiu, Vitaly Shmatikov, Alexander M Rush
+      pdf: https://arxiv.org/pdf/2311.13647
+      conference: ICLR 2024
     - title: "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations"
       authors: Wenting Zhao, Justin T Chiu, Jena D. Hwang, Faeze Brahman, Jack Hessel, Sanjiban Choudhury, Yejin Choi, Xiang Lorraine Li, Alane Suhr
       pdf: https://arxiv.org/pdf/2311.08469.pdf 
       conference: NAACL 2024
+    - title: "I Could've Asked That: Reformulating Unanswerable Questions"
+      authors: Wenting Zhao, Ge Gao, Claire Cardie, Alexander M. Rush
+      pdf: https://arxiv.org/pdf/2407.17469
+      conference: EMNLP 2024
+    - title: "WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild"
+      authors: Yuntian Deng, Wenting Zhao, Jack Hessel, Xiang Ren, Claire Cardie, Yejin Choi
+      pdf: https://arxiv.org/pdf/2409.03753
+      conference: EMNLP 2024 (demo)
+    - title: "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search"
+      authors: Huihan Li, Yuting Ning, Zeyi Liao, Siyuan Wang, Xiang Lorraine Li, Ximing Lu, Wenting Zhao, Faeze Brahman, Yejin Choi, Xiang Ren
+      pdf: https://arxiv.org/pdf/2311.07237
+      conference: EMNLP 2024
+    - title: "WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries"
+      authors: Wenting Zhao, Tanya Goyal, Yu Ying Chiu, Liwei Jiang, Benjamin Newman, Abhilasha Ravichander, Khyathi Chandu, Ronan Le Bras, Claire Cardie, Yuntian Deng, Yejin Choi
+      pdf: https://arxiv.org/pdf/2407.17468
+      conference: Preprint 2024
     - title: "HOP, UNION, GENERATE: Explainable Multi-hop Reasoning without Rationale Supervision"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
       pdf: https://arxiv.org/pdf/2305.14237.pdf
+      conference: EMNLP 2023
+    - title: "Symbolic Planning and Code Generation for Grounded Dialogue"
+      authors: Justin Chiu, Wenting Zhao, Derek Chen, Saujas Vaduguru, Alexander Rush, Daniel Fried
+      pdf: https://arxiv.org/pdf/2310.17140
       conference: EMNLP 2023
     - title: "Abductive Commonsense Reasoning Exploiting Mutually Exclusive Explanations"
       authors: Wenting Zhao, Justin Chiu, Claire Cardie, Alexander M Rush
       pdf: https://arxiv.org/pdf/2305.14618.pdf
       conference: ACL 2023
+    - title: "Serenity: Library Based Python Code Analysis for Code Completion and Automated Machine Learning"
+      authors: Wenting Zhao, Ibrahim Abdelaziz, Julian Dolby, Kavitha Srinivas, Mossad Helali, Essam Mansour
+      pdf: https://arxiv.org/pdf/2301.05108
+      conference: Preprint 2023
     - title: "Commonsense Reasoning for Question Answering with Explanations"
       authors: Wenting Zhao, Alexander M Rush, and Claire Cardie
       pdf: https://openreview.net/pdf?id=rg-zrfteOZc
       conference: ACL 2022 Workshop on Commonsense Representation and Reasoning
+    - title: "Modeling Perspective-Dependent Ambiguity in Collaborative Dialogue"
+      authors: Justin T Chiu, Wenting Zhao, Daniel Fried, Alexander M Rush
+      pdf: https://openreview.net/forum?id=PkHSHZLig5H
+      conference: NAACL 2022 Workshop on Wordplay - When Language Meets Games
     - title: "Compositional Task-Oriented Parsing as Abstractive Question Answering"
       authors: Wenting Zhao, Weiqi Sun, Konstantine Arkoudas, and Claire Cardie
       pdf: https://arxiv.org/pdf/2205.02068.pdf
@@ -81,7 +154,7 @@ papers:
       pdf: https://arxiv.org/pdf/2108.09523.pdf
       conference: Nature Machine Intelligence 2021 (cover story)
     - title: "HOT-VAE: Learning High-Order Label Correlation for Multi-Label Classification via Attention-Based Variational Autoencoders"
-      authors: Wenting Zhao, Shufeng Kong, Junwen Bai, Daniel Fink, and Carla Gome
+      authors: Wenting Zhao, Shufeng Kong, Junwen Bai, Daniel Fink, and Carla Gomes
       pdf: https://arxiv.org/pdf/2103.06375.pdf
       conference: AAAI 2021 (computational sustainability track)
     - title: "Deep Reasoning Networks for Unsupervised Pattern De-mixing with Constraint Reasoning"
